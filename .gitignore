@@ -1,0 +1,11 @@
+/hmsApp
+/node_modules
+/lib-react-app/node_modules
+/lib-react-app/out
+/patientimages
+/staffimages
+/config
+/sqlite
+/scrnShots
+.env
+.db
