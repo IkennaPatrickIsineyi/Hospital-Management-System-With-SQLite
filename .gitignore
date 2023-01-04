@@ -1,0 +1,17 @@
+/hmsApp
+/node_modules
+/lib-react-app/node_modules
+/lib-react-app/out
+/patientimages
+/staffimages
+/config
+/controllers/hms.controllers.js
+/controllers/hms.controllers-5.js
+/model/hms.model.js
+/model/hms.model-2.js
+/model/hms.db.js
+/sqlite
+/finalAppPack
+/scrnShots
+.env
+.db
